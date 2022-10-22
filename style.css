@@ -1,0 +1,16 @@
+body 
+{
+background-color: yellow;
+}
+
+#score
+{
+font-size: 25px;
+float:left;
+}
+
+#time
+{
+    font-size: 25px;
+    float:right;
+}
